@@ -9,7 +9,7 @@ Humax에서 Humax Networks로 분사 이후 SW 품질 활동 관련 기존 업�
 - 프로세스 개선 관련
 
 <p align="center">
-    <img src='./images/Secured_Software_Download_Automation.png'>
+    <img src='./images/images.png'>
     <br>
     
 </p>
