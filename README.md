@@ -1,1 +1,1 @@
-# sw_val_process_redefinition
+# Software Validation Process Redefinition
